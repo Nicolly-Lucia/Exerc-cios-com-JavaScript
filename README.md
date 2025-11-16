@@ -1,5 +1,6 @@
 # Exercicios-com-JavaScript
 Exercícios utilizando JavaScript, em excesso, if else.
+<P> Os códigos foram feitos dentro do Visual Studio code, utilizando o terminal dele e o Node.Js, funções que não compreendo por inteiro, portanto, se ocorrer algum erro durante esse processo, tente utilizar esses recursos.</P>
 <br>
 link do drive contendo os arquivos:
 https://drive.google.com/drive/folders/1zexIDAZL_wx2fS_8j-2ezyOK4pKYjF0_?hl=pt-br
@@ -26,4 +27,6 @@ imagens dos códigos em funcionamento, apenas output:
 9-<img width="536" height="181" alt="image" src="https://github.com/user-attachments/assets/d7ff2e8d-e15c-4ead-a98d-49be4d27f14b" />
 <br>
 10-<img width="591" height="221" alt="image" src="https://github.com/user-attachments/assets/cb38510b-19d0-423d-b637-dbfea947037a" />
+<br>
+imagem que mostra que o drive foi colocado por mim (em caso de proprietário oculto): <img width="1716" height="775" alt="image" src="https://github.com/user-attachments/assets/170ed09b-63a3-48d7-afb5-d50c9db6e6d8" />
 <br>
